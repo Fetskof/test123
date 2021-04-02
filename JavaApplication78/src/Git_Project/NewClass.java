@@ -9,14 +9,6 @@ package Git_Project;
  *
  * @author user
  */
-public class Git_Project {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Version 1");
-    }
+public class NewClass {
     
 }
