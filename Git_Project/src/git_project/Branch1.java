@@ -10,5 +10,7 @@ package git_project;
  * @author user
  */
 public class Branch1 {
-    
+    public static void brand(){
+        System.out.println("Branch 1 ending");
+    }
 }
